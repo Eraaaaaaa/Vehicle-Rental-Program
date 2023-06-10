@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1685006912 source:c:\users\user\desktop\cproject\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"TEA.h"
+	"ORKIDA.h"
+	"ERA.h"
+	"ROSILDA.h"
+
+1685006894 c:\users\user\desktop\cproject\main\structures.h
+
+1685000287 c:\users\user\desktop\cproject\main\tea.h
+
+1685000287 c:\users\user\desktop\cproject\main\orkida.h
+
+1685000287 c:\users\user\desktop\cproject\main\era.h
+
+1685000287 c:\users\user\desktop\cproject\main\rosilda.h
+
+1686287178 source:c:\users\hp\desktop\cproject_vehicle rental app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"ORKIDA.h"
+	"TEA.h"
+	"ERA.h"
+	"ROSILDA.h"
+
+1686287290 c:\users\hp\desktop\cproject_vehicle rental app\structures.h
+
+1686283368 c:\users\hp\desktop\cproject_vehicle rental app\orkida.h
+
+1686292042 c:\users\hp\desktop\cproject_vehicle rental app\tea.h
+	<time.h>
+	"ORKIDA.h"
+
+1686282690 c:\users\hp\desktop\cproject_vehicle rental app\era.h
+
+1686282932 c:\users\hp\desktop\cproject_vehicle rental app\rosilda.h
+
